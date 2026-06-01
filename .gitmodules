@@ -1,4 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/alkemalab/alkemalab.r-universe.dev
 	branch = HEAD
+[submodule "bayescoveragedeploy"]
+	path = bayescoveragedeploy
+	url = https://github.com/AlkemaLab/bayescoveragedeploy
+[submodule "bayescoveragemodel"]
+	path = bayescoveragemodel
+	url = https://github.com/AlkemaLab/bayescoveragemodel
+[submodule "localhierarchy"]
+	path = localhierarchy
+	url = https://github.com/AlkemaLab/localhierarchy
