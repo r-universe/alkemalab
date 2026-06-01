@@ -1,0 +1,10 @@
+{
+  "id": 137275685,
+  "created_at": "2026-06-01T17:08:57.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["alkemalab.r-universe.dev"]
+}
